@@ -138,7 +138,7 @@ const shareFile = async(req,res)=>{
 
     return res.status(200).json({
         message:"Share Link Generated",
-        link:`http://localhost:3000/api/files/share/${token}`
+        link:`https://filesharingappbackend-ppxx.onrender.com/api/files/share/${token}`
     });
 
     }
