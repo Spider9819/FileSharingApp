@@ -3,7 +3,7 @@ import api from "../services/api";
 
 import Navbar from "../components/Navbar";
 import StatsCard from "../components/StatsCard";
-import UploadBox from "../components/Uploadbox";
+import UploadBox from "../components/UploadBox";
 import FileCard from "../components/FileCard";
 
 
